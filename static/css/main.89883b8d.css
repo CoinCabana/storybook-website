@@ -1,9 +1,13 @@
 body {
-  margin: 0;
+  margin: 10;
   font-family: 'Inter', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
+html {
+  font-size: 10px;
+}
 
-/*# sourceMappingURL=main.5b12a0af.css.map*/
+
+/*# sourceMappingURL=main.89883b8d.css.map*/
